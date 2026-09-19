@@ -1,0 +1,18 @@
+python -m pip install pytest
+pip install --upgrade pip
+pip install -r requirements.txt
+
+pytest
+
+pytest -v
+
+pytest -s
+
+pytest -s -v
+
+pytest test_pytest.py
+pytest filename --> zum Beispiel pytest test_pytest.py
+
+python -m pytest --version
+
+pytest -m smoke

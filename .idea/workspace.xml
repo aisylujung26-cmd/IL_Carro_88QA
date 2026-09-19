@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8ad2af3b-e6f6-4dc3-9d3b-15d4eb104eda" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/IL_Carro_88QA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commands_for_terminal.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/car_dto.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/user_dto.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytest.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/test_BUG.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/test_car.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/test_login.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/test_registation.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.1486436976090921" />
+      <entry key="MS500" value="2.8344811383862307" />
+      <entry key="S2" value="5.90109365934985" />
+      <entry key="S5" value="9.143956876205268" />
+      <entry key="S10" value="11.625776097693995" />
+      <entry key="S30" value="19.028285150794307" />
+      <entry key="S60" value="29.263157935039217" />
+      <entry key="M2" value="44.49993520390068" />
+      <entry key="M5" value="70.49712845337595" />
+      <entry key="M10" value="92.9699010865029" />
+      <entry key="M15" value="107.82615966126696" />
+      <entry key="M30" value="140.53514565180518" />
+      <entry key="H1" value="186.54282333733224" />
+      <entry key="H2" value="237.862214507568" />
+      <entry key="H4" value="280.13748125337395" />
+      <entry key="D1" value="329.90876791749287" />
+      <entry key="W1" value="340.22209694445223" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="6.362611252642751E-200" />
+      <entry key="S2" value="1.5882133685266572E-50" />
+      <entry key="S5" value="1.2032712466218129E-20" />
+      <entry key="S10" value="1.096937211795558E-10" />
+      <entry key="S30" value="4.786968722069854E-4" />
+      <entry key="S60" value="0.021879205377191284" />
+      <entry key="M2" value="0.14835202829094815" />
+      <entry key="M5" value="0.5754867556213603" />
+      <entry key="M10" value="1.586941239984291" />
+      <entry key="M15" value="2.9655811912659593" />
+      <entry key="M30" value="7.769610574638543" />
+      <entry key="H1" value="15.397236384060806" />
+      <entry key="H2" value="23.22334278392172" />
+      <entry key="H4" value="29.100346769176234" />
+      <entry key="D1" value="35.51093274304529" />
+      <entry key="W1" value="36.78255022894578" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.0866580801100902" />
+      <entry key="MS500" value="2.8036696095685305" />
+      <entry key="S2" value="5.885072627651592" />
+      <entry key="S5" value="9.133962661744247" />
+      <entry key="S10" value="11.619351717743282" />
+      <entry key="S30" value="19.023414330301563" />
+      <entry key="S60" value="29.26773911614322" />
+      <entry key="M2" value="44.61172923941329" />
+      <entry key="M5" value="71.03101259709693" />
+      <entry key="M10" value="94.51983848978699" />
+      <entry key="M15" value="110.75731460881069" />
+      <entry key="M30" value="148.27379991905775" />
+      <entry key="H1" value="201.91411485794092" />
+      <entry key="H2" value="261.06706981558847" />
+      <entry key="H4" value="309.22645798771805" />
+      <entry key="D1" value="365.4174109493032" />
+      <entry key="W1" value="377.0043087544476" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3JUkHVPq9rDOImAiJHar4JIWqV5" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python tests.Python tests for test.test_BUG.test_registration_negative_invalid_email_BUG.executor": "Run",
+    "Python tests.Python tests for test.test_BUG.test_registration_negative_invalid_password.executor": "Run",
+    "Python tests.Python tests for test.test_car.TestCar.test_add_car.executor": "Run",
+    "Python tests.Python tests for test.test_car.TestCar.test_add_new_car.executor": "Run",
+    "Python tests.Python tests for test.test_car.TestCar.test_delete_car_negative.executor": "Run",
+    "Python tests.Python tests for test.test_car.TestCar.test_delete_car_positive.executor": "Run",
+    "Python tests.Python tests for test.test_car.TestCar.test_get_all_cars_negative_wrong_auth.executor": "Run",
+    "Python tests.Python tests for test.test_car.TestCar.test_get_all_cars_negative_wrong_token.executor": "Run",
+    "Python tests.Python tests for test.test_car.TestCar.test_get_all_cars_positive.executor": "Run",
+    "Python tests.Python tests for test.test_car.TestCar.test_get_all_cities_negative_wrong_token.executor": "Run",
+    "Python tests.Python tests for test.test_car.TestCar.test_get_all_cities_positive.executor": "Run",
+    "Python tests.Python tests for test.test_car.TestCar.test_get_user_car.executor": "Run",
+    "Python tests.Python tests for test.test_login.TestLogin.test_login_empty_field.executor": "Run",
+    "Python tests.Python tests for test.test_login.TestLogin.test_login_negative_wrong_password.executor": "Run",
+    "Python tests.Python tests for test.test_login.TestLogin.test_login_positive.executor": "Run",
+    "Python tests.Python tests for test.test_registation.TestRegistration.executor": "Run",
+    "Python tests.Python tests for test.test_registation.TestRegistration.test_registration_negative_duplicate_user.executor": "Run",
+    "Python tests.Python tests for test.test_registation.TestRegistration.test_registration_negative_empty_email.executor": "Run",
+    "Python tests.Python tests for test.test_registation.TestRegistration.test_registration_negative_invalid_email.executor": "Run",
+    "Python tests.Python tests for test.test_registation.TestRegistration.test_registration_negative_invalid_email_BUG.executor": "Run",
+    "Python tests.Python tests for test.test_registation.TestRegistration.test_registration_negative_invalid_password.executor": "Run",
+    "Python tests.Python tests for test.test_registation.TestRegistration.test_registration_negative_invalid_password_BUG.executor": "Run",
+    "Python tests.Python tests for test.test_registation.TestRegistration.test_registration_positive.executor": "Run",
+    "Python tests.Python tests for test_BUG.test_registration_negative_invalid_email_BUG.test_registration_negative_invalid_password.executor": "Run",
+    "Python tests.Python tests for test_BUG.test_registration_negative_invalid_email_BUG.test_registration_negative_invalid_password_BUG.executor": "Run",
+    "Python tests.Python tests in test_BUG.py.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "master",
+    "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\biene\PycharmProjects\IL_Carro_88QA\test" />
+      <recent name="C:\Users\biene\PycharmProjects\IL_Carro_88QA" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Python tests for test.test_car.TestCar.test_add_new_car">
+    <configuration name="Python tests for test_BUG.test_registration_negative_invalid_email_BUG.test_registration_negative_invalid_password_BUG" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="IL_Carro_88QA" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_BUG.test_registration_negative_invalid_email_BUG.test_registration_negative_invalid_password_BUG&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test.test_BUG.test_registration_negative_invalid_email_BUG" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="IL_Carro_88QA" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test.test_BUG.test_registration_negative_invalid_email_BUG&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test.test_car.TestCar.test_add_new_car" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="IL_Carro_88QA" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test.test_car.TestCar.test_add_new_car&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test.test_car.TestCar.test_delete_car_negative" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="IL_Carro_88QA" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test.test_car.TestCar.test_delete_car_negative&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test.test_car.TestCar.test_delete_car_positive" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="IL_Carro_88QA" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test.test_car.TestCar.test_delete_car_positive&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test.test_car.TestCar.test_get_all_cities_negative_wrong_token" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="IL_Carro_88QA" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test.test_car.TestCar.test_get_all_cities_negative_wrong_token&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test.test_registation.TestRegistration.test_registration_negative_invalid_email" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="IL_Carro_88QA" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test.test_registation.TestRegistration.test_registration_negative_invalid_email&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in test_BUG.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="IL_Carro_88QA" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test/test_BUG.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests for test.test_car.TestCar.test_add_new_car" />
+        <item itemvalue="Python tests.Python tests for test.test_registation.TestRegistration.test_registration_negative_invalid_email" />
+        <item itemvalue="Python tests.Python tests for test.test_car.TestCar.test_delete_car_negative" />
+        <item itemvalue="Python tests.Python tests for test.test_car.TestCar.test_delete_car_positive" />
+        <item itemvalue="Python tests.Python tests for test.test_car.TestCar.test_get_all_cities_negative_wrong_token" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-245168a56dbd-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.25134.203" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8ad2af3b-e6f6-4dc3-9d3b-15d4eb104eda" name="Changes" comment="" />
+      <created>1789722946429</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1789722946429</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
