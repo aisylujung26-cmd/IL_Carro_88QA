@@ -4,27 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ad2af3b-e6f6-4dc3-9d3b-15d4eb104eda" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/IL_Carro_88QA.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/commands_for_terminal.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conftest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/car_dto.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/user_dto.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytest.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test_BUG.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test_car.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test_login.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test_registation.py" afterDir="false" />
-    </list>
+    <list default="true" id="8ad2af3b-e6f6-4dc3-9d3b-15d4eb104eda" name="Changes" comment="Project finished. Ready for testing" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,63 +20,75 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;aisylujung26-cmd&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/aisylujung26-cmd/IL_Carro_88QA.git&quot;,
+    &quot;accountId&quot;: &quot;f99b5efd-282e-43a8-8fee-d3a3cb51b799&quot;
+  }
+}</component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.1486436976090921" />
-      <entry key="MS500" value="2.8344811383862307" />
-      <entry key="S2" value="5.90109365934985" />
-      <entry key="S5" value="9.143956876205268" />
-      <entry key="S10" value="11.625776097693995" />
-      <entry key="S30" value="19.028285150794307" />
-      <entry key="S60" value="29.263157935039217" />
-      <entry key="M2" value="44.49993520390068" />
-      <entry key="M5" value="70.49712845337595" />
-      <entry key="M10" value="92.9699010865029" />
-      <entry key="M15" value="107.82615966126696" />
-      <entry key="M30" value="140.53514565180518" />
-      <entry key="H1" value="186.54282333733224" />
-      <entry key="H2" value="237.862214507568" />
-      <entry key="H4" value="280.13748125337395" />
-      <entry key="D1" value="329.90876791749287" />
-      <entry key="W1" value="340.22209694445223" />
+      <entry key="MS100" value="1.00000000020702" />
+      <entry key="MS500" value="1.0144709117387607" />
+      <entry key="S2" value="1.702118259705618" />
+      <entry key="S5" value="2.659633336296026" />
+      <entry key="S10" value="3.2946920482069197" />
+      <entry key="S30" value="7.140101990488433" />
+      <entry key="S60" value="16.268895902121773" />
+      <entry key="M2" value="32.91092698067624" />
+      <entry key="M5" value="63.35787922651393" />
+      <entry key="M10" value="89.31567515561011" />
+      <entry key="M15" value="105.82551997412246" />
+      <entry key="M30" value="140.57040497381274" />
+      <entry key="H1" value="187.89351361466717" />
+      <entry key="H2" value="240.1674513976831" />
+      <entry key="H4" value="283.1378240872274" />
+      <entry key="D1" value="333.7122837956241" />
+      <entry key="W1" value="344.19314339126043" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="6.362611252642751E-200" />
-      <entry key="S2" value="1.5882133685266572E-50" />
-      <entry key="S5" value="1.2032712466218129E-20" />
-      <entry key="S10" value="1.096937211795558E-10" />
-      <entry key="S30" value="4.786968722069854E-4" />
-      <entry key="S60" value="0.021879205377191284" />
-      <entry key="M2" value="0.14835202829094815" />
-      <entry key="M5" value="0.5754867556213603" />
-      <entry key="M10" value="1.586941239984291" />
-      <entry key="M15" value="2.9655811912659593" />
-      <entry key="M30" value="7.769610574638543" />
-      <entry key="H1" value="15.397236384060806" />
-      <entry key="H2" value="23.22334278392172" />
-      <entry key="H4" value="29.100346769176234" />
-      <entry key="D1" value="35.51093274304529" />
-      <entry key="W1" value="36.78255022894578" />
+      <entry key="MS500" value="1.3144462533447135E-244" />
+      <entry key="S2" value="1.0707441448259433E-61" />
+      <entry key="S5" value="4.091422067869531E-25" />
+      <entry key="S10" value="6.396422490634535E-13" />
+      <entry key="S30" value="8.61613272957326E-5" />
+      <entry key="S60" value="0.009282339322796472" />
+      <entry key="M2" value="0.09662876660237198" />
+      <entry key="M5" value="0.48479765695824734" />
+      <entry key="M10" value="1.4565434208950556" />
+      <entry key="M15" value="2.8008179318508373" />
+      <entry key="M30" value="7.550692457529466" />
+      <entry key="H1" value="15.178768669518815" />
+      <entry key="H2" value="23.057998946721334" />
+      <entry key="H4" value="28.99656847334756" />
+      <entry key="D1" value="35.48979466689026" />
+      <entry key="W1" value="36.779421571649344" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.0866580801100902" />
-      <entry key="MS500" value="2.8036696095685305" />
-      <entry key="S2" value="5.885072627651592" />
-      <entry key="S5" value="9.133962661744247" />
-      <entry key="S10" value="11.619351717743282" />
-      <entry key="S30" value="19.023414330301563" />
-      <entry key="S60" value="29.26773911614322" />
-      <entry key="M2" value="44.61172923941329" />
-      <entry key="M5" value="71.03101259709693" />
-      <entry key="M10" value="94.51983848978699" />
-      <entry key="M15" value="110.75731460881069" />
-      <entry key="M30" value="148.27379991905775" />
-      <entry key="H1" value="201.91411485794092" />
-      <entry key="H2" value="261.06706981558847" />
-      <entry key="H4" value="309.22645798771805" />
-      <entry key="D1" value="365.4174109493032" />
-      <entry key="W1" value="377.0043087544476" />
+      <entry key="MS100" value="0.9726549476108727" />
+      <entry key="MS500" value="1.0088252108015865" />
+      <entry key="S2" value="1.6994038625314019" />
+      <entry key="S5" value="2.657840193049741" />
+      <entry key="S10" value="3.293550275660439" />
+      <entry key="S30" value="7.138797771077794" />
+      <entry key="S60" value="16.27061730514087" />
+      <entry key="M2" value="32.98363050017776" />
+      <entry key="M5" value="63.8075844450102" />
+      <entry key="M10" value="90.7382323042608" />
+      <entry key="M15" value="108.593808970002" />
+      <entry key="M30" value="148.09100566359118" />
+      <entry key="H1" value="203.04670169792143" />
+      <entry key="H2" value="263.20709256948874" />
+      <entry key="H4" value="312.12306211126435" />
+      <entry key="D1" value="369.19978995379614" />
+      <entry key="W1" value="380.97222654982323" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -111,58 +103,58 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python tests.Python tests for test.test_BUG.test_registration_negative_invalid_email_BUG.executor": "Run",
-    "Python tests.Python tests for test.test_BUG.test_registration_negative_invalid_password.executor": "Run",
-    "Python tests.Python tests for test.test_car.TestCar.test_add_car.executor": "Run",
-    "Python tests.Python tests for test.test_car.TestCar.test_add_new_car.executor": "Run",
-    "Python tests.Python tests for test.test_car.TestCar.test_delete_car_negative.executor": "Run",
-    "Python tests.Python tests for test.test_car.TestCar.test_delete_car_positive.executor": "Run",
-    "Python tests.Python tests for test.test_car.TestCar.test_get_all_cars_negative_wrong_auth.executor": "Run",
-    "Python tests.Python tests for test.test_car.TestCar.test_get_all_cars_negative_wrong_token.executor": "Run",
-    "Python tests.Python tests for test.test_car.TestCar.test_get_all_cars_positive.executor": "Run",
-    "Python tests.Python tests for test.test_car.TestCar.test_get_all_cities_negative_wrong_token.executor": "Run",
-    "Python tests.Python tests for test.test_car.TestCar.test_get_all_cities_positive.executor": "Run",
-    "Python tests.Python tests for test.test_car.TestCar.test_get_user_car.executor": "Run",
-    "Python tests.Python tests for test.test_login.TestLogin.test_login_empty_field.executor": "Run",
-    "Python tests.Python tests for test.test_login.TestLogin.test_login_negative_wrong_password.executor": "Run",
-    "Python tests.Python tests for test.test_login.TestLogin.test_login_positive.executor": "Run",
-    "Python tests.Python tests for test.test_registation.TestRegistration.executor": "Run",
-    "Python tests.Python tests for test.test_registation.TestRegistration.test_registration_negative_duplicate_user.executor": "Run",
-    "Python tests.Python tests for test.test_registation.TestRegistration.test_registration_negative_empty_email.executor": "Run",
-    "Python tests.Python tests for test.test_registation.TestRegistration.test_registration_negative_invalid_email.executor": "Run",
-    "Python tests.Python tests for test.test_registation.TestRegistration.test_registration_negative_invalid_email_BUG.executor": "Run",
-    "Python tests.Python tests for test.test_registation.TestRegistration.test_registration_negative_invalid_password.executor": "Run",
-    "Python tests.Python tests for test.test_registation.TestRegistration.test_registration_negative_invalid_password_BUG.executor": "Run",
-    "Python tests.Python tests for test.test_registation.TestRegistration.test_registration_positive.executor": "Run",
-    "Python tests.Python tests for test_BUG.test_registration_negative_invalid_email_BUG.test_registration_negative_invalid_password.executor": "Run",
-    "Python tests.Python tests for test_BUG.test_registration_negative_invalid_email_BUG.test_registration_negative_invalid_password_BUG.executor": "Run",
-    "Python tests.Python tests in test_BUG.py.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "master",
-    "junie.onboarding.icon.badge.shown": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "to.speed.mode.migration.done": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python tests.Python tests for test.test_BUG.test_registration_negative_invalid_email_BUG.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test.test_BUG.test_registration_negative_invalid_password.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test.test_car.TestCar.test_add_car.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test.test_car.TestCar.test_add_new_car.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test.test_car.TestCar.test_delete_car_negative.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test.test_car.TestCar.test_delete_car_positive.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test.test_car.TestCar.test_get_all_cars_negative_wrong_auth.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test.test_car.TestCar.test_get_all_cars_negative_wrong_token.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test.test_car.TestCar.test_get_all_cars_positive.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test.test_car.TestCar.test_get_all_cities_negative_wrong_token.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test.test_car.TestCar.test_get_all_cities_positive.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test.test_car.TestCar.test_get_user_car.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test.test_login.TestLogin.test_login_empty_field.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test.test_login.TestLogin.test_login_negative_wrong_password.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test.test_login.TestLogin.test_login_positive.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test.test_registation.TestRegistration.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test.test_registation.TestRegistration.test_registration_negative_duplicate_user.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test.test_registation.TestRegistration.test_registration_negative_empty_email.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test.test_registation.TestRegistration.test_registration_negative_invalid_email.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test.test_registation.TestRegistration.test_registration_negative_invalid_email_BUG.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test.test_registation.TestRegistration.test_registration_negative_invalid_password.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test.test_registation.TestRegistration.test_registration_negative_invalid_password_BUG.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test.test_registation.TestRegistration.test_registration_positive.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_BUG.test_registration_negative_invalid_email_BUG.test_registration_negative_invalid_password.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_BUG.test_registration_negative_invalid_email_BUG.test_registration_negative_invalid_password_BUG.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_BUG.py.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\biene\PycharmProjects\IL_Carro_88QA\test" />
       <recent name="C:\Users\biene\PycharmProjects\IL_Carro_88QA" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for test.test_car.TestCar.test_add_new_car">
+  <component name="RunManager" selected="Python tests.Python tests for test.test_car.TestCar.test_delete_car_positive">
     <configuration name="Python tests for test_BUG.test_registration_negative_invalid_email_BUG.test_registration_negative_invalid_password_BUG" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="IL_Carro_88QA" />
       <option name="ENV_FILES" value="" />
@@ -301,10 +293,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for test.test_car.TestCar.test_delete_car_positive" />
         <item itemvalue="Python tests.Python tests for test.test_car.TestCar.test_add_new_car" />
         <item itemvalue="Python tests.Python tests for test.test_registation.TestRegistration.test_registration_negative_invalid_email" />
         <item itemvalue="Python tests.Python tests for test.test_car.TestCar.test_delete_car_negative" />
-        <item itemvalue="Python tests.Python tests for test.test_car.TestCar.test_delete_car_positive" />
         <item itemvalue="Python tests.Python tests for test.test_car.TestCar.test_get_all_cities_negative_wrong_token" />
       </list>
     </recent_temporary>
@@ -324,9 +316,22 @@
       <option name="presentableId" value="Default" />
       <updated>1789722946429</updated>
     </task>
+    <task id="LOCAL-00001" summary="Project finished. Ready for testing">
+      <option name="closed" value="true" />
+      <created>1789836193533</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1789836193533</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Project finished. Ready for testing" />
+    <option name="LAST_COMMIT_MESSAGE" value="Project finished. Ready for testing" />
   </component>
 </project>

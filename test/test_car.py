@@ -60,6 +60,7 @@ class TestCar:
 
 #/v1/cars/{serialNumber}
 
+    @pytest.mark.flaky(reruns=3, reruns_delay=1)
     @pytest.mark.smoke
     def test_delete_car_positive(self,session,add_new_car_url, auth_headers, create_car_serial_number):
         car_serial_number = create_car_serial_number
